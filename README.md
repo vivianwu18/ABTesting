@@ -10,3 +10,7 @@ Consider the data for 8 fast food restaurants that were part of a study of the e
   2. What is the estimate of the average treatment effect on the treated units (ATT)? Average Treatment Effect of the Treated (ATT) is the average of the individual treatment effects of those treated (hence not the entire pop- ulation).
   
   3. An alternative estimand is the average treatment effect (ATE). Which estimand makes more sense here? Briefly justify your answer.
+
+----------------------------------------
+Course Instructor: Prof. Rahul Makhijani <br>
+Source: STAT 265 course by Prof. Hal Stern

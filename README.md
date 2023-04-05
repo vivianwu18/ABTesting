@@ -7,8 +7,15 @@ Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertai
 As players progress through the game they will encounter gates that force them to wait some time before they can progress or make an in-app purchase. In this project, we will analyze the result of an A/B test where the first gate in Cookie Cats was moved from level 30 to level 40. In particular, we will analyze the impact on player retention.
 
 ----------------------------------------
-Source: https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing (Mobile Games: A/B Testing) <br>
-https://www.datacamp.com/projects/184 (Datacamp project)
+Source: https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing <br>
+https://www.datacamp.com/projects/184
+
+## Revenue Transactions
+The site launched an A/B test in order to increase income. The excel file contains raw data on the results of the experiment (user_id), sample type (variant_name) and income brought by the user (revenue).
+The task is to analyze the results of the experiment and write your recommendations.
+
+----------------------------------------
+Source: https://www.kaggle.com/datasets/sergylog/ab-test-data
 
 ## Problem on Matching
 Consider the data for 8 fast food restaurants that were part of a study of the effect of raising the minimum wage in NJ. The treatment group is the 2 restaurants in NJ and the control group is a set of 6 restaurants in PA (where the minimum wage was not raised). The outcome Y obs is the number i of people employed (including part time employees) at the end of the year. There are two covariates – Xi1, the identify of the fast food chain (Burger King or Kentucy Fried Chicken) and Xi2, employment at the end of the year prior to the increase in the minimum wage.
